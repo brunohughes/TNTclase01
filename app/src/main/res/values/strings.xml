@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clase01</string>
+    <string name="name">Name</string>
+    <string name="titulo">Super APP clase 1</string>
+    <string name="boton1">agregar</string>
+    <string name="textonota">nueva nota</string>
+</resources>
